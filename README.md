@@ -1,2 +1,1 @@
-# tmgthb.github.io
-Github Pages - Teemu Maatta
+[Github Pages by Teemu Maatta](https://tmgthb.github.io/)
